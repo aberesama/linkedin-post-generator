@@ -1,0 +1,62 @@
+[
+{
+"text": "I have always found myself at odds when explaining what I do. I belong to a cult of men and women who have been mystified by algorithms and large amounts of data. In an ancient society, we would have been designated as wizards and witches of the first order. But today, the question remains: what does a data scientist actually do?",
+"engagement": 0
+},
+{
+"text": "The problem of determining longitude at sea was the 'Big Data' problem of the 18th century. Captains used intuition and guesswork, often leading to disaster like the Scilly Naval tragedy where four ships sank. It is a brutal lesson on why we need data-driven decision making rather than relying solely on the 'intuition' of the highest paid person in the room.",
+"engagement": 0
+},
+{
+"text": "We are building AI tools for African languages, most of which are categorized as 'low-resource' by mainstream AI. But this label is misleading. We have rich language families and linguistic relationships in Africa. The lack of digital data is not a deficit of the language, but a symptom of broader epistemic injustices we are working to fix.",
+"engagement": 0
+},
+{
+"text": "Data creation is not merely technical work; it is an act of resistance. By building datasets for languages like Kiswahili or Luhya, we are claiming the presence and value of African knowledge systems in the digital age. If we do not digitize our languages, they will be left behind by the AI revolution.",
+"engagement": 0
+},
+{
+"text": "The energy at the Deep Learning Indaba in Nairobi was electric. We moved from simple 'Intro to Python' sessions to complex NLP workshops where participants built tools in their native languages. This is the shift we have been waiting for—from consuming AI technology to creating it.",
+"engagement": 0
+},
+{
+"text": "There is a massive opportunity for AI in Africa, but we need to move beyond the hype. At InstaDeep, we are seeing that the real value lies in solving complex problems—logistics, biology, and energy. We need fewer buzzwords and more engineers ready to tackle these 'hard' problems.",
+"engagement": 0
+},
+{
+"text": "Women in Machine Learning and Data Science (WiMLDS) is not just a meetup; it is a pipeline. We are ensuring that the future of AI in Kenya is inclusive. When you look at the datasets we use, they are biased because the creators were homogenous. Changing the creators changes the bias.",
+"engagement": 0
+},
+{
+"text": "Innovation is not just about building apps; it is about systemic change. With Qhala, we are looking at how digital transformation can catalyze Africa's future. Whether it is agriculture or retail, the goal is to use technology to solve the 'human' problems, not just the technical ones.",
+"engagement": 0
+},
+{
+"text": "I often tell businesses: do not start with the technology; start with the problem. When I built Ummeli, it wasn't about the code; it was about matching unemployed youth with opportunities using the devices they already had. The best AI solution is often the one that is most accessible to the user.",
+"engagement": 0
+},
+{
+"text": "We must sit at the policy table. As we advised the government on the Digital Economy Blueprint, it became clear that regulation can either stifle or supercharge innovation. We need frameworks that protect data privacy without killing the startup ecosystem before it even matures.",
+"engagement": 0
+},
+{
+"text": "Masakhane is a testament to participatory research. By simply changing the ISO language code in a training script, we enabled researchers to train translation models for their own languages. We are proving that you do not need to be a tech giant to make a contribution to NLP.",
+"engagement": 0
+},
+{
+"text": "The 'AI Bubble' might burst, but the utility of data analysis will not. In banking, we see that while algorithms can predict credit risk, they cannot replace context. The future is 'Augmented Intelligence'—where the algorithm advises, but the human decides.",
+"engagement": 0
+},
+{
+"text": "We need to talk about 'Shadow AI' in organizations. 64% of African workers are using AI tools, often without their employers knowing. This is a productivity boost, yes, but also a security risk. Companies need to stop banning these tools and start governing them.",
+"engagement": 0
+},
+{
+"text": "My journey into data science was accidental. I started with a computational trick I read in high school and ended up building a search engine called Kwetha. It failed, but it taught me that a great algorithm without a business model is just a hobby. Data scientists need to understand business.",
+"engagement": 0
+},
+{
+"text": "The statistics are clear: mobile internet usage in Africa is skipping the desktop phase entirely. This means our AI models need to be lightweight and edge-deployed. If your model only runs on a massive server farm in the cloud, it is useless to the farmer in rural Kenya.",
+"engagement": 0
+}
+]
